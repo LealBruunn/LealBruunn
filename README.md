@@ -1,7 +1,7 @@
 ## Seja bem vindo ao meu perfil GitHub 👋
 
  
-🚀 Apaixonado por tecnologia, estou sempre em busca de aprimorar minhas habilidades de desenvolvimento. Sempre aberto a colaborações e aprendizado, estou comprometida em contribuir para a comunidade de desenvolvimento de software.
+🚀 Apaixonado por tecnologia, estou sempre em busca de aprimorar minhas habilidades de desenvolvimento. Sempre aberto a colaborações e aprendizado, estou comprometido em contribuir para a comunidade de desenvolvimento de software.
    
 🌱 No momento estou estudando engenharia da computação, enquanto continuo aprofundando meus conhecimentos em Java e Python. Estou sempre em busca de projetos interessantes para contribuir, seja em projetos pessoais ou em iniciativas de código aberto.
 
