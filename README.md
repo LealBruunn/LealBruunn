@@ -3,10 +3,10 @@
  
 🚀 Apaixonado por tecnologia, estou sempre em busca de aprimorar minhas habilidades de desenvolvimento. Sempre aberto a colaborações e aprendizado, estou comprometido em contribuir para a comunidade de desenvolvimento de software.
    
-🌱 No momento estou estudando sistema da informação, enquanto continuo aprofundando meus conhecimentos em Java e Python. Estou sempre em busca de projetos interessantes para contribuir, seja em projetos pessoais ou em iniciativas de código aberto.
+🌱 No momento estou estudando sistema da informação, enquanto continuo aprofundando meus conhecimentos em JavaScript e Python. Estou sempre em busca de projetos interessantes para contribuir, seja em projetos pessoais ou em iniciativas de código aberto.
 
 📫 Você pode me encontrar no e-mail brunopereiraleal@yahoo.com.br ou nas redes sociais:
-
+##
 <div dir="auto"> 
   <a href="https://https://www.youtube.com/channel/UC0JiaRE8C8wjnioW3VESymw" rel="nofollow"><img src="https://camo.githubusercontent.com/c4cccdb78776ae4782fbbfae4c58f3d2dfecdaa13af37791db4c6ddfc1044b26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://https://www.instagram.com/leal.brunn/" rel="nofollow"><img src="https://camo.githubusercontent.com/5fe8416cd5ba128163da401b036070cff85f0004eda8aa86575aaa1e93b1b5af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
